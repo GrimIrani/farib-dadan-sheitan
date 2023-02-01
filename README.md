@@ -8,7 +8,13 @@ Tesseract OCR
 ```
 
 # خروجی های گرفته شده
-epub/pdf
+[PNG(کلیک کن)](https://github.com/GrimIrani/farib-dadan-sheitan/tree/main/PNG)
+
+TEXT(کلیک کن)
+
+PDF(کلیک کن)
+
+EPUB(کلیک کن)
 
 # TODO
 - اضافه کردن صفحه وب با قابلیت خوندن کتاب
